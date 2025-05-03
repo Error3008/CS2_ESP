@@ -4,4 +4,6 @@
 
 ## About
 This is my small project that I started to improve my skills in reverse engineering. I'm not going to support the project, although there will probably be some updates.
-
+## How to Install?
+First download the repository and install the dependencies
+```pip install -r .\requirements.txt```
