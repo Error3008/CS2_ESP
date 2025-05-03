@@ -7,3 +7,5 @@ This is my small project that I started to improve my skills in reverse engineer
 ## How to Install?
 First download the repository and install the dependencies
 ```pip install -r .\requirements.txt```
+Next, run the gui.py file **as administrator.**
+Go into the game, set up the cheat and turn on ESP.
